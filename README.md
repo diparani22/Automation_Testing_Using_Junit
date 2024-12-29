@@ -34,16 +34,14 @@ Ensure you have the following installed:
 - Implemented file upload functionality.
 - Asserted the expected success message: "Thank you for your submission!".
 #### Report
-![image](https://github.com/user-attachments/assets/9a56248b-5b76-4643-86bb-47fc18addd62)
-
-
+![image](https://github.com/user-attachments/assets/77b0166c-e474-4746-a10d-4748423404b3)
 
 
 ### 2. Guest Registration Automation for WP Everest
 - Automated field inputs for First Name, Last Name, Email, Password, Gender, DOB, Nationality, Phone, Country, and acceptance of Terms & Conditions.
 - Asserted successful registration upon submission.
 #### Report 
-![Junittask2](https://github.com/user-attachments/assets/21f27a8f-c3a9-4d21-9ed9-87731f92309a)
+![Junittask2](https://github.com/user-attachments/assets/99f72bb2-29bf-4b2e-9c24-de3f01bdacc2)
 
 
 
@@ -53,7 +51,8 @@ Ensure you have the following installed:
 - Printed all table cell values in the console.
 - Stored the scraped data into a text file for reference. 
 #### Report
-![image](https://github.com/user-attachments/assets/9fb16fc1-5b2e-455a-bb73-922632fde327)
+![junit task3](https://github.com/user-attachments/assets/cb9a9b73-4bee-4040-92a7-749867e59bbc)
+
 
 # How to Execute the Tests **Configuration and Setup**
 Install the JDK and configure Eclipse or IntelliJ IDEA as your IDE.
@@ -85,7 +84,9 @@ To begin the automation task, open the appropriate Java test class:
 - Text File: Scraped table data is stored in ```store.txt```.
 
 #### Text File
-![image](https://github.com/user-attachments/assets/9e526b83-c2e2-4911-b9e4-b389dbcd44ce)
+![image](https://github.com/user-attachments/assets/856e12e6-4889-49be-8c87-77d5015d33c5)
+
+
 
 
   
