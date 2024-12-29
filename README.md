@@ -65,7 +65,7 @@ To begin the automation task, open the appropriate Java test class:
 
      -Task1WebSubmissionFrom.java
      -Task2RegistrationFromForUser.java
-     -Task3DhakaStockExchangeScarpTable
+     -Task3DhakaStockExchangeScarpTable.java
 - Use the terminal command or the IDE to run the test classes:
 
   
